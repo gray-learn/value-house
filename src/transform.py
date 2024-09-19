@@ -33,3 +33,6 @@ def transform_data(data_list, start_year, end_year, min_sale_amount, max_sale_am
     print(" first_five_rows:")
     print(first_five_rows)
     print("Column structure:", column_structure)
+
+    return first_five_rows
+
